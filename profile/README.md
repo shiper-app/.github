@@ -1,12 +1,4 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Welcome to Shiper 🚀
+### 🙋‍♀️ A short introduction - what is Shiper all about?
+Shiper is your go-to one-click deployment PaaS platform, designed to make deploying your applications a breeze. Whether you're an indie developer, a growing team, or an enterprise with ambitious goals, Shiper supports all your favorite languages and frameworks, offering automatic SSL certificates, CI/CD, preview deployments, and more. With zero configuration hassle and custom domain support, Shiper is here to simplify your workflow and help you establish a strong online presence.
